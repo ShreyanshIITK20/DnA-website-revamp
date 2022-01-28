@@ -3,7 +3,43 @@
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:900&display=swap');
+.design-heading {
+	font-size: 8vw;
+	line-height: 8vw;
+	margin: 0;
+	font-family: 'Red Hat Display', sans-serif;
+	font-weight: 900;
+	background: url(https://cdn.w600.comps.canstockphoto.com/random-objects-collage-clipart-vector_csp31128058.jpg);
+	background-size: 40%;
+	background-position: 50% 50%;
+	-webkit-background-clip: text;
+	color: rgba(0,0,0,0.08);
+	animation: zoomout 10s ease 500ms forwards;
+  }
 
+  .animation-heading {
+	font-size: 8vw;
+	line-height: 8vw;
+	margin: 0;
+	font-family: 'Red Hat Display', sans-serif;
+	font-weight: 900;
+	background: url(https://cdn.wallpapersafari.com/39/54/tgKHkT.jpg);
+	background-size: 40%;
+	background-position: 50% 50%;
+	-webkit-background-clip: text;
+	color: rgba(0,0,0,0.08);
+	animation: zoomout 10s ease 500ms forwards;
+  }
+  
+  @keyframes zoomout {
+	from {
+	  background-size: 40%;
+	}
+	to {
+	  background-size: 10%;
+	}
+  }
 /* Basic */
 
 	// MSIE: Required for IEMobile.

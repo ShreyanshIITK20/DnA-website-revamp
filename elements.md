@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design
-description: We are building a language out of designs, not a style.
+description: Building a language out of designs to communicate, not a style to impress.
 image: assets/images/d1.jpg
 nav-menu: true
 ---
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Design</h1>
+			<h1 class="design-heading">#Design</h1>
 		</header>
 
 <!-- Content -->
