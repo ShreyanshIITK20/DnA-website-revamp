@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Design
+description: We are building a language out of designs, not a style.
+image: assets/images/d1.jpg
 nav-menu: true
 ---
 
@@ -12,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Design</h1>
 		</header>
 
 <!-- Content -->
